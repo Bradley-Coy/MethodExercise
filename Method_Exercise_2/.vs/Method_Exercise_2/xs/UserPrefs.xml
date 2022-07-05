@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E05FE17F-3A88-409D-B688-4CAD031C021C}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Method__Exercise__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Method_Exercise_2/Program.cs">
+    <Files>
+      <File FileName="Method_Exercise_2/Program.cs" Line="8" Column="29" />
+      <File FileName="Method_Exercise_2/Methods.cs" Line="12" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Method_Exercise_2" expanded="True">
+            <Node name="Method_Exercise_2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
